@@ -39,7 +39,7 @@ const Index = () => {
         <div className="mb-8">
           <div className="flex items-center justify-between">
             <div>
-              <h1 className="text-3xl font-bold text-gray-900 mb-2">Welcome back, <span className='text-[#ea580c]'>Shalu Rawal!</span></h1>
+              <h1 className="text-3xl font-bold text-gray-900 mb-2">Welcome back, <span className='text-[#ea580c]'>Ba Bye!</span></h1>
               <p className="text-gray-600">Here's what's happening with your business today.</p>
             </div>
             <div className="flex items-center space-x-3">
